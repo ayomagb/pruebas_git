@@ -1,1 +1,3 @@
 creación del primer archivo en nuestro repositorio
+
+ya hice el add y el commit
